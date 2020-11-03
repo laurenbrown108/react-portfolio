@@ -10,7 +10,7 @@ function Footer() {
     return (
         <>
             <footer>
-            <Nav className="shadow navbar fixed-bottom navbar-light">
+            <Nav className="shadow navbar fixed-bottom bg-light navbar-light">
                 <Container className="container">
                     <Row className="row mx-auto">
                             <a className="col icons" href="https://linkedin.com/in/lauren-brown-4290a458/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin square fa"></i></a>
