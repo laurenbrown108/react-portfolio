@@ -7,7 +7,7 @@ function MyNav() {
     return (
         <>
             <header>
-                <Navbar className="shadow navbar navbar-light">
+                <Navbar className="shadow pt-2 pb-2 navbar navbar-light">
                     <Navbar.Brand href="#"> Lauren Brown</Navbar.Brand>
                     <Nav className="ml-auto">
 

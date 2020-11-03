@@ -4,13 +4,15 @@ import React from 'react';
 // import Contact from './pages/Contact';
 // import Portfolio from './pages/Portfolio';
 // // import Body from './components/Body';
-// import Footer from './components/Footer';
+import MyFooter from './components/Footer';
 import MyNav from './components/Navbar';
 
 function App() {
   return (
     <>
     <MyNav />
+    <div className="mt-5"> Hi! </div>
+    <MyFooter />
       {/* <Router>
         <MyNav />
         <div>
@@ -19,7 +21,6 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </div>
-        <Footer />
       </Router> */}
     </>
   );
