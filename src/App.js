@@ -4,7 +4,7 @@ import React from 'react';
 // import Contact from './pages/Contact';
 // import Portfolio from './pages/Portfolio';
 // // import Body from './components/Body';
-import MyFooter from './components/Footer';
+import Footer from './components/Footer';
 import MyNav from './components/Navbar';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     <>
     <MyNav />
     <div className="mt-5"> Hi! </div>
-    <MyFooter />
+    <Footer />
       {/* <Router>
         <MyNav />
         <div>
