@@ -7,7 +7,7 @@ function About() {
             <main className="container py-5">
                 <Row>
                     <section className="col-md-8">
-                        <h1>About</h1>
+                        <h1>ABOUT</h1>
                         <section className="wrapper pt-2">
                             <img src="/assets/img_0018_2.jpg" className="rounded float-left mt-2 mr-4 mb-2 border-dark" alt="Lauren" />
                             <section className="pt-2">
