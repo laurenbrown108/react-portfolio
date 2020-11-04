@@ -9,7 +9,7 @@ function About() {
                     <section className="col-md-8">
                         <h1>ABOUT</h1>
                         <section className="wrapper pt-2">
-                            <img src="/assets/img_0018_2.jpg" className="rounded float-left mt-2 mr-4 mb-2 border-dark" alt="Lauren" />
+                            <img src="/assets/img_0018_2.jpg" className="rounded float-left mt-2 mr-4 mb-2 aboutMe" alt="Lauren" />
                             <section className="pt-2">
                                 <p>Hello, and welcome to my portfolio!</p>
                                 <p>My name is Lauren. I'm from Cherry Hill, NJ and currently live in Philadelphia with my two dogs, Cowboy and Sugar.</p>

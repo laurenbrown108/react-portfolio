@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "title": "Brewery Finder",
+        "image": "/assets/brewfinder.gif",
+        "description": "An app that lets the user search for breweries by state. It utilizes the Open Brewery DB, Yelp, and Google Maps APIs.", 
+        "exampleURL": "https://lambaa94.github.io/Brewery-Finder/",
+        "githubURL": "https://github.com/laurenbrown108/Brewery-Finder"
+    }
+]

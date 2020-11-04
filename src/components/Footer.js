@@ -13,9 +13,9 @@ function Footer() {
             <Nav className="shadow navbar fixed-bottom bg-light navbar-light">
                 <Container className="container">
                     <Row className="row mx-auto">
-                            <a className="col icons" href="https://linkedin.com/in/lauren-brown-4290a458/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin square fa"></i></a>
-                            <a className="col icons" href="https://github.com/laurenbrown108" target="_blank" rel="noreferrer"><i className="fa fa-github square fa"></i></a>
-                            <a className="col icons" href="mailto:laurenbrown108@gmail.com" target="_blank" rel="noreferrer"><i className="fa fa-envelope-square"></i></a>
+                            <a className="col icons" href="https://linkedin.com/in/lauren-brown-4290a458/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin square fa-2x"></i></a>
+                            <a className="col icons" href="https://github.com/laurenbrown108" target="_blank" rel="noreferrer"><i className="fa fa-github square fa-2x"></i></a>
+                            <a className="col icons" href="mailto:laurenbrown108@gmail.com" target="_blank" rel="noreferrer"><i className="fa fa-envelope-square fa-2x"></i></a>
                     </Row>
                 </Container>
             </Nav>
