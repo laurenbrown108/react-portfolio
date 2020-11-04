@@ -1,10 +1,10 @@
 import React from 'react';
-import Row from 'react-bootstrap/Row'
+import { Row, Container} from 'react-bootstrap'
 
 function About() {
     return (
         <>
-            <main className="container py-5">
+            <Container className="py-5">
                 <Row>
                     <section className="col-md-8">
                         <h1>ABOUT</h1>
@@ -14,12 +14,12 @@ function About() {
                                 <p>Hello, and welcome to my portfolio!</p>
                                 <p>My name is Lauren. I'm from Cherry Hill, NJ and currently live in Philadelphia with my two dogs, Cowboy and Sugar.</p>
                                 <p>I graduated from Rutgers University in 2014 with a Bachelor's degree in Journalism and Media Studies. For the past six years I have mostly been working in customer service, but I've also dabbled in visual merchandising and styling. One of my true passions is definitely design, whether that be in fashion, print, or on the web.</p>
-                                <p>I'm a beginner when it comes to web development, so the content I add to this portfolio will only improve over time! If you like what you see please connect with me on social media.</p>
+                                <p>I'm a beginner when it comes to web development, so the content I add to this portfolio will only improve over time! If you like what you see please connect with me on social media or fill out the contact form provided.</p>
                             </section>
                         </section>
                     </section>
                 </Row>
-            </main>
+            </Container>
         </>
     )
 }

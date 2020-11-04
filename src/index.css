@@ -1,12 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
 
-a, .icons {
-    color: black;
-}
-
-/* footer {
-    font-size: 24px;
-  } */
 
 .aboutMe {
     border: 2px solid;
@@ -23,14 +15,14 @@ a, .icons {
     font-weight: bold;
 }
 
-h1 {
-    font-weight: bolder;
-    font-size: 2rem;
-    letter-spacing: 3px;
-}
-
 .card {
     display:inline-block;
+    width: 18rem;
+}
+
+.card-img-top {
+    max-height: 148px;
+    min-height: 148px;
 }
 
 .cardTitle {
@@ -38,38 +30,20 @@ h1 {
     font-weight: 600;
     line-height: 1.2;
     text-transform: uppercase;
+    color: black;
     letter-spacing: 3px;
 }
 
-.cardBody {
+.cardBody { 
     letter-spacing: 1px;
-    color: black;
+    color: #55595c;
+    /* color: black;
     font-size: 15px;
-    font-weight: 400;
-}
-
-.pCard {
-    width: 18rem;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #1a1a1a;
-    border-color: #1a1a1a;
-    display: inline-block;
-    font-weight: 600;
-    text-align: center;
-    vertical-align: middle;
-    text-transform: uppercase;
-    font-size: 0.765625rem;
-    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400; */
 }
 
 body {
     background-image: url('./assets/memphis-mini.png');
-    font-family: 'Nunito Sans', sans-serif;
     letter-spacing: 1px;
     color: black;
-    font-size: 15px;
-    /* font-weight: bold; */
 }
