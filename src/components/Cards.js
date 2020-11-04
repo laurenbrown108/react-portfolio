@@ -1,5 +1,4 @@
 import React from 'react';
-import Row from 'react-bootstrap/Row';
 import Card from 'react-bootstrap/Card';
 
 function PortfolioCard(props) {
@@ -10,7 +9,7 @@ function PortfolioCard(props) {
 
             {/* <div className="col-md-12 ml-4 pl-4"> */}
                 
-                    <Card className="mt-2 mr-3 border-dark pCard">
+                    <Card className="mt-2 mr-3 border-dark">
                         <Card.Img src={props.image} className="card-img-top img-fluid" alt={props.title} />
                         <Card.Body>
                             <Card.Title className="cardTitle"> {props.title} </Card.Title>
