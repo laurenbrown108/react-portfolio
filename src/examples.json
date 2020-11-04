@@ -6,5 +6,46 @@
         "description": "An app that lets the user search for breweries by state. It utilizes the Open Brewery DB, Yelp, and Google Maps APIs.", 
         "exampleURL": "https://lambaa94.github.io/Brewery-Finder/",
         "githubURL": "https://github.com/laurenbrown108/Brewery-Finder"
+    },
+    {
+        "id": 1,
+        "title": "Code Quiz",
+        "image": "assets/codequiz.png",
+        "description": "A javascript powered quiz that tests the user's knowledge of the language. The users can also post their high score.", 
+        "exampleURL": "https://laurenbrown108.github.io/code-quiz/",
+        "githubURL": "https://github.com/laurenbrown108/code-quiz"
+    },
+    {
+        "id": 2,
+        "title": "Day Planner",
+        "image": "assets/dayplan.png",
+        "description": "A simple JQuery powered calendar app to help schedule a work day. Events save and can be accessed when revisiting the site.", 
+        "exampleURL": "https://laurenbrown108.github.io/day-planner/",
+        "githubURL": "https://github.com/laurenbrown108/day-planner"
+    },
+    {
+        "id": 3,
+        "title": "Pizza Party",
+        "image": "assets/pizzascreenshot.png",
+        "description": "This app presents the user with a pizza party! Make a new pizza and then devour it. Powered by MySQL and Handlebars.", 
+        "exampleURL": "https://have-a-pizza-party.herokuapp.com/",
+        "githubURL": "https://github.com/laurenbrown108/pizza-party"
+    },
+    {
+        "id": 4,
+        "title": "Employee Tracker",
+        "image": "assets/employeescreenshot.png",
+        "description": "This app helps busines owners keep track of their current employee directory. Add to the directory using Node and MySQL.", 
+        "exampleURL": "https://drive.google.com/file/d/1AjU-I7sc-u_LwyfeX7XI8VG9igoSC1CO/view",
+        "githubURL": "https://github.com/laurenbrown108/employee-tracker"
+    },
+    {
+        "id": 5,
+        "title": "Furry Friend Finder",
+        "image": "assets/fff.png",
+        "description": "A full stack app that allows the user to search for adoptable pets in their area, and keep organized in the process by saving favorites.", 
+        "exampleURL": "https://petfind-app.herokuapp.com/",
+        "githubURL": "https://github.com/laurenbrown108/PetFinder"
     }
+
 ]

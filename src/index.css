@@ -29,6 +29,10 @@ h1 {
     letter-spacing: 3px;
 }
 
+.card {
+    display:inline-block;
+}
+
 .cardTitle {
     font-size: 1rem;
     font-weight: 600;
