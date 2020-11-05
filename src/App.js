@@ -13,9 +13,9 @@ function App() {
       <Router>
         {/* <MyNav /> */}
 
-          <Route exact path="/react-portfolio" component={About} />
-          <Route exact path="/react-portfolio/about" component={About} />
-          <Route exact path="/react-portfolio/portfolio" component={Portfolio} />
+          <Route exact path="/" component={About} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/portfolio" component={Portfolio} />
       
       </Router>
     </>
