@@ -13,11 +13,8 @@ function MyNav() {
 
                         <Nav.Link href="/about">ABOUT</Nav.Link>
 
-
                         <Nav.Link href="/portfolio">PORTFOLIO</Nav.Link>
 
-
-                        <Nav.Link href="/contact">CONTACT</Nav.Link>
 
                     </Nav>
 

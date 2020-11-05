@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.2c74e95b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a8594bb2.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a8594bb2.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.24b099b0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.24b099b0.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.f9f0916f.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.f9f0916f.js.map",
-    "static/js/2.87a6b834.chunk.js": "/react-portfolio/static/js/2.87a6b834.chunk.js",
-    "static/js/2.87a6b834.chunk.js.map": "/react-portfolio/static/js/2.87a6b834.chunk.js.map",
+    "static/js/2.5e36c247.chunk.js": "/react-portfolio/static/js/2.5e36c247.chunk.js",
+    "static/js/2.5e36c247.chunk.js.map": "/react-portfolio/static/js/2.5e36c247.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/main.2c74e95b.chunk.css.map": "/react-portfolio/static/css/main.2c74e95b.chunk.css.map",
-    "static/js/2.87a6b834.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.87a6b834.chunk.js.LICENSE.txt",
+    "static/js/2.5e36c247.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5e36c247.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-portfolio/static/media/memphis-mini.f0fc03f2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f9f0916f.js",
-    "static/js/2.87a6b834.chunk.js",
+    "static/js/2.5e36c247.chunk.js",
     "static/css/main.2c74e95b.chunk.css",
-    "static/js/main.a8594bb2.chunk.js"
+    "static/js/main.24b099b0.chunk.js"
   ]
 }
